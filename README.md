@@ -1,7 +1,7 @@
 # Hello, I'm Raza Shaikh 👋  
 🚀 **Cloud Engineer | DevOps Enthusiast | Problem Solver**  
 
-Based in Pune, I specialize in creating scalable, secure, and cost-efficient cloud solutions. With hands-on experience in AWS and DevOps practices, I thrive on solving complex challenges in the cloud.
+with expertise in building, optimizing, and managing cloud infrastructures. With hands-on experience in AWS services and DevOps tools, I strive to create scalable, secure, and cost-efficient solutions.
 
 ---
 
@@ -18,6 +18,14 @@ Based in Pune, I specialize in creating scalable, secure, and cost-efficient clo
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+---
+
+🚀 What I Do
+
+- **Cloud Technologies**: Designing and deploying solutions on AWS (EC2, S3, RDS, Lambda, DynamoDB).
+- **DevOps Practices**: Automating CI/CD pipelines using tools like Jenkins, Terraform, and CloudFormation.
+- **Infrastructure as Code**: Managing infrastructure with IaC tools to ensure consistency and efficiency.
+- **Security & Compliance**: Implementing IAM best practices and ensuring compliance with industry standards.
 
 ---
 
@@ -29,5 +37,5 @@ Based in Pune, I specialize in creating scalable, secure, and cost-efficient clo
 
 ## 📫 **Let's Connect**
 
-- **LinkedIn**: [linkedin.com/in/razashaikh]((https://www.linkedin.com/in/raza-shaikh-95493114a/))
+- **LinkedIn**: [RazaShaikh](https://www.linkedin.com/in/raza-shaikh-95493114a/)
 - **Email**: [razzz.shaikh@gmail.com](mailto:razzz.shaikh@gmail.com)
