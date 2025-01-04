@@ -22,7 +22,7 @@ with expertise in building, optimizing, and managing cloud infrastructures. With
 
 🚀 What I Do
 
-- **Cloud Technologies**: Designing and deploying solutions on AWS (EC2, S3, RDS, Lambda, DynamoDB).
+- **Cloud Technologies**: Designing and deploying solutions on AWS (EC2, S3, RDS, Lambda, DynamoDB and other core services).
 - **DevOps Practices**: Automating CI/CD pipelines using tools like Jenkins, Terraform, and CloudFormation.
 - **Infrastructure as Code**: Managing infrastructure with IaC tools to ensure consistency and efficiency.
 - **Security & Compliance**: Implementing IAM best practices and ensuring compliance with industry standards.
